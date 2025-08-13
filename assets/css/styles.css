@@ -3,6 +3,10 @@ body{
     background-image: url("../images/WIN_20221205_09_15_30_Pro.jpg");
 }
 
+h2{
+    color: blueviolet;
+}
+
 /* body{
     background-color: lightgrey;
     background-image: url("/assets/images/WIN_20221205_09_15_30_Pro.jpg");
