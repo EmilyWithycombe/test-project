@@ -7,6 +7,10 @@ h2{
     color: blueviolet;
 }
 
+p{
+    font-weight: bold;
+}
+
 /* body{
     background-color: lightgrey;
     background-image: url("/assets/images/WIN_20221205_09_15_30_Pro.jpg");
